@@ -270,6 +270,16 @@
   text-align: center;
 }
 
+.extras-section .headshot img{
+    flex: 2;
+    margin: 0 50px;
+    object-fit: cover;
+    width: 300px;
+    border-radius: 100%;
+    aspect-ratio: 1 / 1;
+  }
+
+
 
   /*******************************************************Footer****************************************/
   .custom-footer {
