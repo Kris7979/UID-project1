@@ -12,7 +12,7 @@ This portfolio site is built using **HTML5**, **CSS3**, and integrates **Font Aw
 
 ```
 Portfolio/
-├── index1.html          # Main HTML page for the portfolio
+├── index.html          # Main HTML page for the portfolio
 ├── style1.css           # External stylesheet (linked in HTML)
 ├── images1/             # Directory containing all images (logos, headshot, etc.)
 ├── india.html           # Linked project page (Project 1)
