@@ -248,6 +248,29 @@
   }
 
 
+/*******************************************************SECTION 5: Extras*****************************************/
+.extras-section {
+  padding: 0 50px;
+  margin-bottom: 100px;
+}
+
+.extras-section h2 {
+  font-size: 35px;
+  text-align: center;
+  margin-bottom: 20px;
+}
+
+.extras-section .group {
+  display: flex;
+  justify-content: center;
+}
+
+.extras-section .group .text {
+  max-width: 800px;
+  text-align: center;
+}
+
+
   /*******************************************************Footer****************************************/
   .custom-footer {
     background-color: #1a1c20;
