@@ -397,15 +397,15 @@
     }
 
 
-    @media (max-width: 600px) {
+   
       .custom-footer {
         padding: 20px;
       }
     
       .social-links a {
         font-size: 24px;
-      }
-    }
+    
+
 
   
      
