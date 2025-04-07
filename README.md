@@ -2,11 +2,11 @@
 
 # Personal Portfolio Website
 
-This is a modern, responsive web portfolio showcasing my skills, projects, and contact information.
+This is a responsive web portfolio showcasing my skills, projects, and contact information.
 
 ## Overview
 
-This portfolio site is built using **HTML5**, **CSS3**, and integrates **Font Awesome** for icons and **Google Fonts** for typography. It highlights my technical skills, key projects, and ways to connect with me.
+This portfolio site is built using **HTML**, **CSS**, and integrates **Font Awesome** for icons and **Google Fonts** for typography. It highlights my technical skills, key projects, and ways to connect with me.
 
 ## Project Structure
 
@@ -33,10 +33,10 @@ Portfolio/
 
 ## Technologies Used
 
-- **HTML5**
-- **CSS3**
+- **HTML**
+- **CSS**
 - **Font Awesome Icons**
-- **Google Fonts (Poppins)**
+- **Google Fonts**
 
 ## Preview
 
