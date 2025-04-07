@@ -39,7 +39,7 @@ Portfolio/
 
 ## Preview
 
-> You can view a live preview by opening `index1.html` in any browser.
+> You can view a live preview by opening `index.html` in any browser.
 
 ## Contact
 
