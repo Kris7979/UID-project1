@@ -250,6 +250,7 @@
 
 /*******************************************************SECTION 5: Extras*****************************************/
 .extras-section {
+  display: flex;
   padding: 0 50px;
   margin-bottom: 100px;
 }
@@ -266,6 +267,7 @@
 }
 
 .extras-section .group .text {
+  flex: 5;
   max-width: 800px;
   text-align: left;
 }
