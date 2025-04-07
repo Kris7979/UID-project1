@@ -256,18 +256,18 @@
 
 .extras-section h2 {
   font-size: 35px;
-  text-align: center;
+  text-align: left;
   margin-bottom: 20px;
 }
 
 .extras-section .group {
   display: flex;
-  justify-content: center;
+  justify-content: left;
 }
 
 .extras-section .group .text {
   max-width: 800px;
-  text-align: center;
+  text-align: left;
 }
 
 .extras-section .headshot img{
