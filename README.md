@@ -28,6 +28,7 @@ Portfolio/
   - Skills overview
   - Highlighted projects
   - Contact form
+  - About my College
 - Social links (GitHub, LinkedIn, Email)
 
 ## Technologies Used
